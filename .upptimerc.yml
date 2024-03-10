@@ -5,8 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: TechDuels
     url: https://www.techduels.com
+    icon: https://www.techduels.com
   - name: RapidTalent
     url: https://www.rapidtalent.co
+    icon: https://static.wixstatic.com/media/c4a8d9_bab923bc7291435db0ad1474c5cd26b5~mv2.png/v1/crop/x_0,y_179,w_500,h_153/fill/w_318,h_98,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/RAPID_TALEN_LOGO-removebg-preview.png
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
