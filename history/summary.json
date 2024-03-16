@@ -4,19 +4,19 @@
     "url": "https://www.techduels.com",
     "icon": "https://www.techduels.com",
     "slug": "tech-duels",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 139,
-    "timeWeek": 152,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 156,
+    "timeDay": 152,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 5
     }
   },
   {
