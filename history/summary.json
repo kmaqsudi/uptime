@@ -4,7 +4,7 @@
     "url": "https://www.techduels.com",
     "icon": "https://www.techduels.com",
     "slug": "tech-duels",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 160,
     "timeMonth": 160,
     "timeYear": 160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "RapidTalent",
